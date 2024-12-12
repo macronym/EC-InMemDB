@@ -1,7 +1,7 @@
 # How to run the code
 
 1. Install Python 3.12 if not already installed, since that's what I used.
-2. Run ```sh python in_mem_db.py``` or click a run button in the IDE.
+2. Run ```python in_mem_db.py``` or click a run button in the IDE.
 3. Test cases are provided within the same file through unittest, and it closely follows the example given in the assignment document.
 
 # Potential modifications to become an official assignment
